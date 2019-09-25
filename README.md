@@ -1,4 +1,4 @@
-# pandas-challenge
+# pandas-challenge : PyCitySchools
 This homework demonstates the use of the pandas library within Jupyter notebooks using DataFrames, groupby, descriptive statistics and binning.
 
 # Two Observable Trends
